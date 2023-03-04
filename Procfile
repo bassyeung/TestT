@@ -1,1 +1,1 @@
-web: gunicorn TestTeanslate.wsgi --log-file -
+web: gunicorn TestTranslate.wsgi --log-file -
