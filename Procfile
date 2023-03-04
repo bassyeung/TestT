@@ -1,0 +1,1 @@
+web: gunicorn TestTeanslate.wsgi --log-file -
